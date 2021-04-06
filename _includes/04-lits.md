@@ -1,4 +1,4 @@
-## Skills
+# Skills
 - Java
 - C
 - Python
