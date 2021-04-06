@@ -1,9 +1,9 @@
 ## Skills
-1 Java
-2 C
-3 Python
-4 C++
-5 Wordpress
-6 HTML
-7 SEO
-8 PHP
+- Java
+- C
+- Python
+- C++
+- Wordpress
+- HTML
+- SEO
+- PHP
