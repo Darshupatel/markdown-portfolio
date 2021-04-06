@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+## Skills
+1 Java
+2 C
+3 Python
+4 C++
+5 Wordpress
+6 HTML
+7 SEO
+8 PHP
